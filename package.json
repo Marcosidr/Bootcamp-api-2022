@@ -1,0 +1,17 @@
+{
+  "name": "bootcamp-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Marcos Inácio",
+  "license": "ISC",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
